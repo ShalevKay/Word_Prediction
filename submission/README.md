@@ -18,4 +18,4 @@
 - In the 6th and last step, the 3grams are sorted by w1w2 ascending and by the probability for w3 descending.
 - The output of the 6th step is the program final output.
 
-## Output directory on s3: s3://dsp2/output/final-output
+## Output directory on s3: s3://dsp2/output
